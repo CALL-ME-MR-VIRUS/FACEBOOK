@@ -18,6 +18,6 @@
 # pip2 install lolcat 
 # git clone https://github.com/CALL-ME-MR-VIRUS/FACEBOOK
 # cd FACEBOOK
-# python2 TAYYAB.PY
+# python2 TAYYAB.py
 # H3Y FR13ND ND F9NS 3NJOY ND R3M3B3R M3 1N YOUR PR9Y3RS
 
