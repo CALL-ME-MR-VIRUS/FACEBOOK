@@ -3,12 +3,13 @@
    # ℒℴνℯ ▄︻̷̿┻̿═━
    \033[1;91m=======================================
 \033[1;96mAuthor  \      :    # VIRUS007
-#https://facebook.com/MR.VIRUS.007.OFFICIAL
+
+#https://facebook.com/S3D.QU33N.ANNI3
 
 
 \033[1;92m # https://github.com/MRVIRUS0071/MANO
 \033[1;96mBlogger \033[1;93m: \033[1;92m 
-# 03196964094
+# 03240964094
 \033[1;91m======================================="""
 # command 
 # apt update
