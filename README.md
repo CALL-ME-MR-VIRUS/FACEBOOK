@@ -3,6 +3,8 @@
    # ℒℴνℯ ▄︻̷̿┻̿═━
    \033[1;91m=======================================
 \033[1;96mAuthor  \      :    # VIRUS007
+#https://facebook.com/MR.VIRUS.007.OFFICIAL
+
 
 \033[1;92m # https://github.com/MRVIRUS0071/MANO
 \033[1;96mBlogger \033[1;93m: \033[1;92m 
